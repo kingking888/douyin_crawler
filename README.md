@@ -1,6 +1,7 @@
 # douyin 抖音xg算法+device注册生成
 
 此项目仅用于科研学习,请勿用于商业用途否则造成的后果与作者无关,本人盖不负责,若有侵权请告知
+
 This project is only used for research and study, please do not use it for commercial purposes, otherwise the consequences will not be related to the author.
 
 # 采集教程步骤
