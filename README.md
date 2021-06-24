@@ -11,8 +11,11 @@ This project is only used for research and study, please do not use it for comme
  常用工具：apktool、dex2jar、jd-gui、dy.apk、hook
  
  https://ibotpeaches.github.io/Apktool/install/
+ 
  http://sourceforge.net/projects/dex2jar/files/
+ 
  https://github.com/java-decompiler/jd-gui/releases
+ 
  https://www.wandoujia.com/apps/7461948/
  
 # 2、前期准备+教程查看文档（仅适用小白，大神勿喷！）
