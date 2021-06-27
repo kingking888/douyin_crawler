@@ -6,7 +6,7 @@ This project is only used for research and study, please do not use it for comme
 
 # 采集教程步骤
 
-# 1、常规爬取工具不多说了，提供以下资源自己下载
+# 1、常规基本工具不多说了，提供以下资源自己下载
 
  常用工具：apktool、dex2jar、jd-gui、dy.apk、hook
  
